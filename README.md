@@ -1,7 +1,5 @@
 ## Hi There! ✌🏻
 
----
-
 * I'm Sean from Malaysia 🇲🇾
 * Learning how to code so I can make my own game 🎮
 * Favourite phrase: Yes No? 🤔
