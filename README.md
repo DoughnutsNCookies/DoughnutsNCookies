@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![schuah's 42 stats](https://badge42.vercel.app/api/v2/cl6x9j6nd00060gmmv8ixfc4e/stats?cursusId=21&coalitionId=182)](https://github.com/JaeSeoKim/badge42)
+
+https://github-readme-stats.vercel.app/api?username=DoughnutsNCookies&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight)](https://github.com/DoughnutsNCookies?tab=repositories) | [![Language that i have learned](https://github-readme-stats.vercel.app/api/top-langs/?username=DoughnutsNCookies&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/DoughnutsNCookies?tab=repositories)
