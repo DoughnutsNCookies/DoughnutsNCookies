@@ -8,7 +8,7 @@
 
   <a href="https://www.instagram.com/sean.chuahtseyung/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.facebook.com/profile.php?id=100008226551923" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>  <a href="mailto:chuahtseyung2002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
- <p align="left">
+  <p align="left">
     <img src="https://badge42.vercel.app/api/v2/cl6x9j6nd00060gmmv8ixfc4e/stats?cursusId=21&coalitionId=182" style="width: 80%"/>
   </p>
 
