@@ -8,16 +8,16 @@
 
 <p align="center">
      <a href="https://github.com/DoughnutsNCookies">
-          <img align="center" src = "https://github-readme-stats.vercel.app/api?username=DoughnutsNCookies&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight" width="520" alt="DoughnutsNCookies"/>
+          <img align="center" src = "https://github-readme-stats.vercel.app/api?username=DoughnutsNCookies&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight" width="450" alt="DoughnutsNCookies"/>
      <a href="https://github.com/DoughnutsNCookies">
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DoughnutsNCookies&theme=tokyonight&hide_border=true" width="450"/>
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DoughnutsNCookies&theme=tokyonight&hide_border=true" width="380"/>
      </a>
 </p>
 
 <p align="center">
      <a href="https://github.com/DoughnutsNCookies">
-          <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DoughnutsNCookies&theme=tokyonight&hide_border=true"  width="610" alt="DoughnutsNCookies"/>
+          <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DoughnutsNCookies&theme=tokyonight&hide_border=true"  width="520" alt="DoughnutsNCookies"/>
      <a href="https://github.com/DoughnutsNCookies">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DoughnutsNCookies&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="360" alt="DoughnutsNCookies"/>
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DoughnutsNCookies&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="320" alt="DoughnutsNCookies"/>
      </a>
 </p>  
