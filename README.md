@@ -1,6 +1,7 @@
 # ✌🏻 Hi There!
 
 * I'm Sean from Malaysia 🇲🇾
+* A 42KL Cadet 👨🏻‍💻
 * Learning how to code so I can make my own game 🎮
 * Favourite phrase: Yes No? 🤔
 
