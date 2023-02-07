@@ -5,7 +5,24 @@
 * Learning how to code so I can make my own game 🎮
 * Favourite phrase: Yes No? 🤔
 
-[![](https://visitcount.itsvg.in/api?id=DoughnutsNCookies&icon=0&color=1)](https://visitcount.itsvg.in)<br><br>
+     [![](https://visitcount.itsvg.in/api?id=DoughnutsNCookies&icon=0&color=1)](https://visitcount.itsvg.in)
+<br><br>
+
+# 🌐 Social Medias
+<br>
+
+<div>
+	<a href="https://www.instagram.com/sean.chuahtseyung/" target="_blank">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+	</a>
+	<a href="https://www.facebook.com/profile.php?id=100008226551923" target="_blank">
+		<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+	</a>
+	<a href="mailto:chuahtseyung2002@gmail.com?subject=Hello!" target="_blank">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+	</a>
+</div>
+<br>
 
 # 💻 Tech Stack
 <br>
@@ -28,40 +45,24 @@
 
 <br>
 
-# 🛠️ Tools:
+# 🛠️ Tools
 <br>
 
 <div>
-	<img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-	<img align="left" alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
-	<img align="left" alt="UNIX" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" style="padding-right:10px;" />
-	<img align="left" alt="VIM" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
-	<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-	<img align="left" alt="Jupyter" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
-	<img align="left" alt="Linux" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" style="padding-right:10px;" />
-	<img align="left" alt="NodeJS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;" />
-	<img align="left" alt="Ubuntu" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />
-	<img align="left" alt="WordPress" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" style="padding-right:10px;" />
+	<img alt="Git" style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp&nbsp
+	<img alt="Bash" style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp&nbsp
+	<img alt="UNIX" style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />&nbsp&nbsp
+	<img alt="VIM" style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />&nbsp&nbsp
+	<img alt="Visual Studio Code" style="width:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp&nbsp
+	<img alt="Jupyter" style="width:40px;" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" />&nbsp&nbsp
+	<img alt="Linux" style="width:40px;" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />&nbsp&nbsp
+	<img alt="NodeJS" style="width:40px;" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" />&nbsp&nbsp
+	<img alt="Ubuntu" style="width:40px;" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" />&nbsp&nbsp
+	<img alt="WordPress" style="width:40px;" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" />&nbsp&nbsp
 </div>
 	
-<br><br><br>
-
-# 🌐 Social Medias
 <br>
 
-<div>
-	<a href="https://www.instagram.com/sean.chuahtseyung/" target="_blank">
-		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-	</a>
-	<a href="https://www.facebook.com/profile.php?id=100008226551923" target="_blank">
-		<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-	</a>
-	<a href="mailto:chuahtseyung2002@gmail.com?subject=Hello!" target="_blank">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-	</a>
-</div>
-<br>
-     
 # 📊 GitHub Stats
 <br>
 
