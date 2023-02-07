@@ -49,7 +49,7 @@
 <br>
 
 <div>
-	<img alt="Git" style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp&nbsp
+	<img alt="Git" style="align:left; width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp&nbsp
 	<img alt="Bash" style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp&nbsp
 	<img alt="UNIX" style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />&nbsp&nbsp
 	<img alt="VIM" style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />&nbsp&nbsp
