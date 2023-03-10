@@ -67,7 +67,7 @@
 <br>
 
 <p align="center">
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DoughnutsNCookies&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight" width="555px" alt="DoughnutsNCookies" />
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DoughnutsNCookies&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="375px" alt="DoughnutsNCookies"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DoughnutsNCookies&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight" width="455px" alt="DoughnutsNCookies" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DoughnutsNCookies&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="275px" alt="DoughnutsNCookies"/>
 </p> 
 
