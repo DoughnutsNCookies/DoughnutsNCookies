@@ -24,6 +24,9 @@
 	<a href="https://www.linkedin.com/in/chuahtseyung/" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
+	<a href="https://www.youtube.com/@chuahtseyung" target="_blank">
+		<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+	</a>
 </div>
 <br>
 
