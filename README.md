@@ -4,7 +4,6 @@
 * 42KL Cadet 👨🏻‍💻
 * Learning how to code so I can make my own game 🎮
 * Favourite phrase currently: Yes No? 🤔
-* Portfolio: https://schuah.me
 
      [![](https://visitcount.itsvg.in/api?id=DoughnutsNCookies&icon=0&color=1)](https://visitcount.itsvg.in)
 <br><br>
