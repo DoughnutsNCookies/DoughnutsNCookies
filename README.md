@@ -97,14 +97,3 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<br>
-
-# 📊 GitHub Stats
-<br>
-
-<p align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=DoughnutsNCookies&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight" width="455px" alt="DoughnutsNCookies" />
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DoughnutsNCookies&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="300px" alt="DoughnutsNCookies"/>
-</p> 
-
